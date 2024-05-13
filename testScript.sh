@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-## For TLL quick testing. 
+## For quick testing. 
 #builds image then runs it in interactive mode.
 
 docker build --platform=linux/amd64  -t example_app .
